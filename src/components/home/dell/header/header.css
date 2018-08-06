@@ -1,0 +1,14 @@
+.header{
+    width: 100%;
+    height: .45rem;
+    position: relative;
+    line-height: .45rem;
+    text-align: center;
+}
+.left{
+    position: absolute;
+    left: .1rem;
+}
+p span{
+    margin-left: .2rem;
+}

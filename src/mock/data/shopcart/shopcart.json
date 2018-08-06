@@ -1,0 +1,199 @@
+[
+    {
+        "trans_title": "次日达",
+        "inactive_item": [],
+        "to_addon_order": 1,
+        "active_item": [
+            {
+                "big_stock": 3574,
+                "trans_brief": "",
+                "promote_tag": "https://j-image.missfresh.cn/img_20170605114049455.png",
+                "non_vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 2190,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 9868950,
+                        "price_color": 9868950
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1990,
+                        "name": "商城价",
+                        "second_price": 0,
+                        "name_color": 16730257,
+                        "price_color": 16730257
+                    }
+                },
+                "product_tags": [
+                    {
+                        "color": 13027014,
+                        "name": "进口检验合格",
+                        "icon": "https://image.missfresh.cn/category_tag_images/4F714FFE698178AEB812AF38AC3416EA.PNG",
+                        "type": "property"
+                    }
+                ],
+                "price": 2190,
+                "prompt_img_list": [],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "id": "cart_3535b61129445fd3a485e20e9ac5405f_p-hbzllm-1h",
+                "sku": "p-hbzllm-1h",
+                "event": {
+                    "event_active": false,
+                    "limit": 3574,
+                    "active": true,
+                    "product_limit": 99999
+                },
+                "stock": 3574,
+                "sp": null,
+                "can_use_voucher": 1,
+                "images": {
+                    "cart": "https://image.missfresh.cn/a6fa48abeb974c2c9b9ee45797408ffa.jpg"
+                },
+                "quantity": 1,
+                "vp_prompt_img_list": [],
+                "presale_text": null,
+                "presale_type": 0,
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "unit": "1盒",
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 2190,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 9868950,
+                        "price_color": 9868950
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1990,
+                        "name": "商城价",
+                        "second_price": 0,
+                        "name_color": 16730257,
+                        "price_color": 16730257
+                    }
+                },
+                "subtitle": "这么好的蓝莓  都想留给你吃",
+                "name": "智利蓝莓125g*1盒",
+                "market_price": 0,
+                "nationwide": 0,
+                "error_code": "OK",
+                "vip_price": 1990,
+                "can_use_product_voucher": 0,
+                "voucher_tag": "",
+                "real_sku": "p-hbzllm-1h"
+            },
+            {
+                "big_stock": 457,
+                "trans_brief": "",
+                "promote_tag": "https://j-image.missfresh.cn/img_20171110161256993.png",
+                "non_vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 3990,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 9868950,
+                        "price_color": 9868950
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 2990,
+                        "name": "商城价",
+                        "second_price": 0,
+                        "name_color": 16730257,
+                        "price_color": 16730257
+                    }
+                },
+                "product_tags": [
+                    {
+                        "color": 13027014,
+                        "name": "果径24-26mm",
+                        "type": "property"
+                    },
+                    {
+                        "color": 13027014,
+                        "name": "红包不可用",
+                        "icon": "https://image.missfresh.cn/category_tag_images/64C7BDFCE3063869F16B409A2851887D.PNG",
+                        "type": "property"
+                    }
+                ],
+                "price": 3990,
+                "prompt_img_list": [],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "promotion_tag": "不可用红包",
+                "id": "cart_3535b61129445fd3a485e20e9ac5405f_p-YShbzlclz-1h",
+                "sku": "p-YShbzlclz-1h",
+                "event": {
+                    "event_active": false,
+                    "limit": 457,
+                    "active": true,
+                    "product_limit": 99999
+                },
+                "stock": 457,
+                "sp": null,
+                "can_use_voucher": 0,
+                "images": {
+                    "cart": "https://image.missfresh.cn/705880b301704e159b9e1c88bc37a729.jpg"
+                },
+                "quantity": 1,
+                "vp_prompt_img_list": [],
+                "presale_text": null,
+                "presale_type": 0,
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "unit": "1盒",
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 3990,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 9868950,
+                        "price_color": 9868950
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 2990,
+                        "name": "商城价",
+                        "second_price": 0,
+                        "name_color": 16730257,
+                        "price_color": 16730257
+                    }
+                },
+                "subtitle": "饱满多汁是我的代名词",
+                "name": "【现货】智利XL级车厘子500g",
+                "market_price": 0,
+                "nationwide": 0,
+                "error_code": "OK",
+                "vip_price": 2990,
+                "can_use_product_voucher": 0,
+                "voucher_tag": "",
+                "real_sku": "p-YShbzlclz-1h"
+            }
+        ],
+        "trans_type": "old"
+    },
+    {
+        "trans_title": "全国送商品",
+        "inactive_item": [],
+        "to_addon_order": 1,
+        "active_item": [],
+        "trans_type": "all"
+    }
+]

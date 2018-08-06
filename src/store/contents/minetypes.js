@@ -1,0 +1,1 @@
+export const GAIBINA_A = 'GAIBINA_A';

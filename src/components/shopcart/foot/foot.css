@@ -1,0 +1,20 @@
+.jiao{
+    width:  100%;
+    height: .5rem;
+    background: red;
+    line-height: .5rem;
+}
+.jiao ul{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.jiao li{
+    flex: 1;
+    text-align: center;
+}
+.fen{
+    width: 100%;
+    height: 100%;
+    background: pink;
+}

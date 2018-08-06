@@ -1,0 +1,13 @@
+.tab{
+    width: 100%;
+}
+.tab-count{
+    align-items: center;
+    justify-content: center; 
+    height: 85%; 
+    width: 100%;
+    background-color: #fff;
+}
+.tab-count img{
+    width: 100px;
+}
